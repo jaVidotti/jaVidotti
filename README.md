@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaVidotti&theme=radical" alt="Felipe's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaVidotti&theme=radical" alt="Jheniffer's Activity Graph" />
 </div>
 
 ![snake gif](https://github.com/jaVidotti/jaVidotti/blob/output/github-snake-dark.svg)
